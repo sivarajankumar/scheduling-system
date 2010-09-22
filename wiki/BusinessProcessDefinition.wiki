@@ -4,8 +4,9 @@
  
 
 = 1.0 Business Objectives  =   
-                  In present situation lot of hospitals maintains their personal data either by using manual records or by using computers. But they are not providing any online interface to all patients . To avoid this situation and to provide online communication between busy people to hospital management we are introducing a new portal called “Hospital Management System”.
- 
+                 In present situation in lot of hospitals scheduling an appointment is done manually ethier by making a call or visiting an hospital ,this process includes lot of disadvantages like the climatic conditions (raining heavily,snowfall) , call may not connect as hospital is a busy place, network problems,etc . 
+                 To avoid this situation a online communication system called scheduling system is proposed between busy people and the hospital management where patient can schedule his/her appointment sitting at home through his pc and also fill all the forms which are mandatory for an hospital. 
+  
 == 2.0 Business Requirements ==
     * System should be web based.
     * Specific access permissions must be given to different users.
