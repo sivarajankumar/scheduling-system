@@ -31,12 +31,12 @@
 
 
 ==== System Requirements ==== 
-The application must run on all web browsers for all operating systems. System must also be available for use 24 hours a day, 7 days a week.
+The application must run in all operating systems. System must also be available 24 hours and 7 days a week.
   
  
   
 ==== Data Requirements ==== 
-Data like patientid,patient problem,fee details,etc should be stored.
+Data like patientid,patient problem,fee details,doctors working in the hospital,etc should be stored.
 
 
 ==== Security Requirements ==== 
@@ -84,13 +84,13 @@ Hospital Administration
       
   
 ==== 2.3.4 Business Dependencies ==== 
- *  users must be trained to use the software.
+ *  Training should be given to the users to use the software.
 
 
 
  
 === 2.4 Technology Impact === 
-  * Better organisation of activities of hospital management.
+  
   * Patients can schedule their appointment from anywhere at any time.
   * Usage of computers will increase and become prominent.
   * Reduction in the time.
@@ -106,13 +106,13 @@ Hospital Administration
 
 ==== 2.4.2 Technology Risks ==== 
  * Internet outages
- * Breach in security or lack of control over user access
+ * Breach in security 
  * Local Area Network down
 
 == 3.0 Assumptions == 
   
 The following assumptions further define the scope and deliverables of the Hospital   Management System. 
- * Computers are available with internet
+ * Computers with internet is available
  * Increase efficiency
  * Less paperwork
  
