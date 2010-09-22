@@ -83,7 +83,7 @@ Hospital Administration
   
       
   
-==== 2.3.4 Business Dependencies ==== 
+===== 2.3.4 Business Dependencies ==== 
  *  Training should be given to the users to use the software.
 
 
