@@ -88,7 +88,6 @@ Hospital Administration
 
 
 
- 
 === 2.4 Technology Impact === 
   
   * Patients can schedule their appointment from anywhere at any time.
@@ -96,7 +95,6 @@ Hospital Administration
   * Reduction in the time.
   
   
-
 ==== 2.4.1 Technology Dependencies ==== 
  * This software is dependent on web
  * Security setup between administrator and users 
@@ -119,7 +117,7 @@ The following assumptions further define the scope and deliverables of the Hospi
    
 
 == 4.0 Issues == 
-   * All the information and activities related to particular hospital is of major concern.    
+   * System efficiency deprnds on the network.   
 
 
 ==5.0 Project Success Criteria == 
