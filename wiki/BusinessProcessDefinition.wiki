@@ -80,6 +80,7 @@ By using an online system,efficiencies can be gained in maintanance and security
 Hospital Administration
 
 1. Compare quarterly budgets after one  year of software implementation.
+
 2. Compare quarterly projected time per patients seen to actual time per patient after one year of software implementation.
   
       
