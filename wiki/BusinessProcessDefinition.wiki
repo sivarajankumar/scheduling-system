@@ -19,7 +19,8 @@
 ===   2.1 Process Flows === 
 
 ====   2.1.1 Existing or “As Is” Process Flow and Process Steps ==== 
-http://scheduling-system.googlecode.com/files/EXISTING%20DIAGRAM.jpghttp://scheduling-system.googlecode.com/files/Slide2.JPG
+http://scheduling-system.googlecode.com/files/EXISTING%20DIAGRAM.jpg
+http://scheduling-system.googlecode.com/files/Slide2.JPG
 
 ====   2.1.2 Proposed or “To Be” Process Flow and Process Steps ==== 
 http://scheduling-system.googlecode.com/files/Slide2%282%29.JPG
