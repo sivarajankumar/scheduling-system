@@ -74,14 +74,14 @@ By using an online system,efficiencies can be gained in maintanance and security
  * Time spent per patient
  
  
-===== 2.3.2 Measurable Business Metrics to be used ===== 
+==== 2.3.2 Measurable Business Metrics to be used ====
  * Fewer people will be required to maintain records
  * Budgets for forms and paper files will become maintained or reduced even with an increase in patient visits
  * Time per patient will be reduced thus increasing the number of patients seen
  * Reports can be easily generated
  * Doctors can easily recollect patients past problems
  
-===== 2.3.3 Responsibility of Metrics Collection & Analysis ===== 
+==== 2.3.3 Responsibility of Metrics Collection & Analysis ==== 
 Hospital Administration
 
 1. Compare quarterly budgets after one  year of software implementation.
@@ -90,7 +90,7 @@ Hospital Administration
   
       
   
-===== 2.3.4 Business Dependencies ==== 
+==== 2.3.4 Business Dependencies ====
  *  Training should be given to the users to use the software.
 
 
