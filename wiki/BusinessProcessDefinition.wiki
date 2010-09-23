@@ -24,8 +24,9 @@ http://scheduling-system.googlecode.com/files/EXISTING%20DIAGRAM.jpg
 http://scheduling-system.googlecode.com/files/EXISTING%20TABLE.jpg
 
 ====   2.1.2 Proposed or “To Be” Process Flow and Process Steps ==== 
-http://scheduling-system.googlecode.com/files/Slide2%282%29.JPG
-http://scheduling-system.googlecode.com/files/Slide1.JPG
+
+http://scheduling-system.googlecode.com/files/PROPOSED%20DIAGRAM.jpg
+http://scheduling-system.googlecode.com/files/PROPOSED%20TABLE.jpg
 
 ===   2.2 New Process Requirements === 
 
