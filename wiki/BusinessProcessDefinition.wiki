@@ -23,6 +23,7 @@ http://scheduling-system.googlecode.com/files/Slide1%282%29.JPG
 http://scheduling-system.googlecode.com/files/Slide2.JPG
 
 ====   2.1.2 Proposed or “To Be” Process Flow and Process Steps ==== 
+http://scheduling-system.googlecode.com/files/Slide2%282%29.JPG
 http://scheduling-system.googlecode.com/files/Slide1.JPG
 
 ===   2.2 New Process Requirements === 
