@@ -140,8 +140,10 @@ The following assumptions further define the scope and deliverables of the Hospi
 
 *_The five steps in problem analysis_*
 ==2.1 Gain agreement on the problem defination==
+
+* Problem statement format
 ||_Element_||_Description_||
 || The problem of...|||| ||
-|| The problem of...|||| ||
-|| The problem of...|||| ||
-|| The problem of...|||| ||
+|| Affects...|||| ||
+|| And results in...|||| ||
+|| Benifits of the solution...|||| ||
