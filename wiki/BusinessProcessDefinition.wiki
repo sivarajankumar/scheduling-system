@@ -126,7 +126,7 @@ The following assumptions further define the scope and deliverables of the Hospi
    
 
 == 4.0 Issues == 
-   * System efficiency deprnds on the network.   
+   * System efficiency depends on the network.   
 
 
 ==5.0 Project Success Criteria == 
