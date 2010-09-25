@@ -143,7 +143,9 @@ The following assumptions further define the scope and deliverables of the Hospi
 
 * Problem statement format
 ||_Element_||_Description_||
-|| The problem of...|||| ||
-|| Affects...|||| ||
+|| The problem of...|||| Manually verifying authentication of the visitors  ||
+|| Affects...||||  ||
 || And results in...|||| ||
 || Benifits of the solution...|||| ||
+
+==2.2 Understand the Root Causes (The Problem Behind the Problem)
