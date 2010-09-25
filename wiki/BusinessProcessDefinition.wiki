@@ -132,3 +132,9 @@ The following assumptions further define the scope and deliverables of the Hospi
 ==5.0 Project Success Criteria == 
    * The requirements should be clear and should be understandable.
    * The software should be simple and it should be used by the people even with little or no training. 
+
+
+---
+= 2. TEAM SKILL 1 =
+* <h2> Analyzing the problem * </h2>
+*_The five steps in problem analysis_*
