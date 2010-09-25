@@ -133,19 +133,3 @@ The following assumptions further define the scope and deliverables of the Hospi
    * The requirements should be clear and should be understandable.
    * The software should be simple and it should be used by the people even with little or no training. 
 
-
-= 2. TEAM SKILL 1 =
-
-* <h2> Analyzing the problem * </h2>
-
-*_The five steps in problem analysis_*
-==2.1 Gain agreement on the problem defination==
-
-* Problem statement format
-||_Element_||_Description_||
-|| The problem of...|||| Manually verifying authentication of the visitors  ||
-|| Affects...||||  ||
-|| And results in...|||| ||
-|| Benifits of the solution...|||| ||
-
-==2.2 Understand the Root Causes (The Problem Behind the Problem)==
