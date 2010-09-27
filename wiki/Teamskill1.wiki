@@ -1,14 +1,16 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+==1.0 Introduction ==
 
 Add your content here.
-=Problem Definition=
-=Gaining agreement on problem definition=
+==2.0Problem Definition==
+=2.1Gaining agreement on problem definition=
 
 Manual work of scheduling appointment with doctor is time consuming process and includes heavy paper work.<br>
 
 http://scheduling-system.googlecode.com/files/0ne.jpg
+=2.2 Understanding the root causes=<br>
+http://scheduling-system.googlecode.com/files/two.jpg<br>
 = Details =
 
 Add your content here.  Format your content with:
