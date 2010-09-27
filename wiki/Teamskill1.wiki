@@ -9,10 +9,12 @@ Add your content here.
 Manual work of scheduling appointment with doctor is time consuming process and includes heavy paper work.<br>
 
 http://scheduling-system.googlecode.com/files/0ne.jpg
-*2.2 Understanding the root causes*<br>
+==2.2 Understanding the root causes==<br>
 
 http://scheduling-system.googlecode.com/files/two.jpg<br>
-===3.0Identifying stakeholders and users===
+
+===3.0 Identifying stakeholders and users===
+
 = Details =
 
 Add your content here.  Format your content with:
