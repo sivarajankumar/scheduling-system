@@ -5,7 +5,9 @@
 Add your content here.
 =Problem Definition=
 =Gaining agreement on problem definition=
-Manual work of scheduling appointment with doctor is time consuming process and includes heavy paper work.
+
+Manual work of scheduling appointment with doctor is time consuming process and includes heavy paper work.<br>
+
 http://scheduling-system.googlecode.com/files/0ne.jpg
 = Details =
 
