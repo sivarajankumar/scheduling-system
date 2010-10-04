@@ -17,12 +17,7 @@ http://scheduling-system.googlecode.com/files/two.jpg<br>
 
 http://scheduling-system.googlecode.com/files/three%20-%20Copy.jpg
 ====4.0 Defining the Solution System Boundary====
-<br>http://scheduling-system.googlecode.com/files/solution%20system.jpg<br>
-=====5.0 Identify the Constraints to Be Imposed on the Solution=====<br>
+<br>http://scheduling-system.googlecode.com/files/solution%20system.jpg<br> 
+=====*5.0 Identify the Constraints to Be Imposed on the Solution*=====<br>
 http://scheduling-system.googlecode.com/files/5.png<br>
 = Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
