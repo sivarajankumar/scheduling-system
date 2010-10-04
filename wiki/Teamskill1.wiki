@@ -15,7 +15,7 @@ http://scheduling-system.googlecode.com/files/two.jpg<br>
 
 ===3.0 Identifying stakeholders and users===
 
-http://scheduling-system.googlecode.com/files/three.jpg<br>
+http://scheduling-system.googlecode.com/files/three%20-%20Copy.jpg
 ====4.0 Defining the Solution System Boundary====
 <br>http://scheduling-system.googlecode.com/files/solution%20system.jpg<br>
 =====5.0 Identify the Constraints to Be Imposed on the Solution=====<br>
