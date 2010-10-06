@@ -11,7 +11,7 @@ Manual work of scheduling appointment with doctor is time consuming process and 
 http://scheduling-system.googlecode.com/files/0ne%5B1%5D.jpg
  ==*2.2 Understanding the root causes*==<br>
 
-http://scheduling-system.googlecode.com/files/two.jpg<br>
+http://scheduling-system.googlecode.com/files/two.jpg<br> results in uncontrolled procedure of scheduling an appointment.<br>
 
 ===3.0 Identifying stakeholders and users===
 
