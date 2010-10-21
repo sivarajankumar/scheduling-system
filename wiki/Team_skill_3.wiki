@@ -34,9 +34,7 @@ There is no other application which is used to make appointment with the doctor 
 ==Summary of Capabilities==
 this application is used to make appointment with doctor through online. There is a flexibility in choosing the particular doctor.
 
-
-
 emergency appointments: serious injury in accidents, sudden heart strokes, sudden illness and pregnent ladies can have emergency appointments.
 
 
-non emergency appointments:
+non emergency appointments: These appointments are for the patients whos cases are not serious
