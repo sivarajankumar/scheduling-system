@@ -43,7 +43,10 @@ Two Differenet Categories of people were interviewed.one is from the Hospital ad
 
 =*2.0 Requirements Workshop*=<br>
 
-Many users and the people from the Scheduling system attended the requirements workshop and presented their views and requirements in problem solvation
+Many users and the people from the Scheduling system attended the requirements workshop and presented their views and requirements in problem solvation.
+
+==*2.1 Attendees of the requirement workshop*==
+
 
 
 
