@@ -49,7 +49,4 @@ Many users and the people from the Scheduling system attended the requirements w
 
 http://scheduling-system.googlecode.com/files/workshop.png
 
-
-
-
  http://scheduling-system.googlecode.com/files/skill2.png
