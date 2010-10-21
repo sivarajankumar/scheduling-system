@@ -24,6 +24,7 @@ Two Differenet Categories of people were interviewed.one is from the Hospital ad
 =Interview Notes=
 
 *What is Problem in the present notations?*<br>
+
 .The manual work done is too complicated<br>
 .Maintainence of databse records is not remotely done<br>
 .Time consumption<br>
@@ -36,7 +37,7 @@ Two Differenet Categories of people were interviewed.one is from the Hospital ad
 .Security is provided through web application<br>
 .automatic updation saves the time<br>
 
-What is availabilty of system?
+*What is the availabilty of system?*
 
 .It should be available at any time.<br>
 
