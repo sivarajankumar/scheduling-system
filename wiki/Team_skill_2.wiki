@@ -1,1 +1,16 @@
-http://scheduling-system.googlecode.com/files/skill2.png
+=Team skill 2:Understanding User and Stakeholder Needs=
+==1.0 Summary of Interviews of user or stakeholder==
+Two Differenet Categories of people were interviewed.one is from the Hospital admimistration side and other one is the Patient(user).
+===1.1 From Adminstration point of view===
+. User friendly and interactive.
+. Time slicing should to be applied to the web Linking.
+. Datbase should be operated by administrator.
+. Appointemnt overriding should not be done.
+. Patient information should be confidential.
+. Users can track the appointment system.
+====1.2 From Patient point if view====
+. User friendly and attractive
+. Should display all the avialability of Doctors.
+. user information should be monitored.
+. System should not be Hefty.
+ http://scheduling-system.googlecode.com/files/skill2.png
