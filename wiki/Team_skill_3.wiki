@@ -25,7 +25,16 @@ These are similar to that of business process requirements and definition where 
 ==Alternatives and Competition==
 Alternative of this application is patients have to visit hospital to make appointment with doctor. There is no application in the market which can compete with this system. 
 
-==Product Overview==
+===Product Overview===
+
+==Product Perspective==
+
+There is no other application which is used to make appointment with the doctor online and which saves the patients records and reports. Here every visit with doctor is stored in the database.
+
+==Summary of Capabilities==
+this application is used to make appointment with doctor through online. There is a flexibility in choosing the particular doctor.
+
+
 
 emergency appointments: serious injury in accidents, sudden heart strokes, sudden illness and pregnent ladies can have emergency appointments.
 
