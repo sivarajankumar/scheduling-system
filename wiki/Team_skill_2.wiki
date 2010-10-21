@@ -1,6 +1,7 @@
 =Team skill 2:Understanding User and Stakeholder Needs=
 ==1.0 Summary of Interviews of user or stakeholder==
-Two Differenet Categories of people were interviewed.one is from the Hospital admimistration side and other one is the Patient(user).
+Two Differenet Categories of people were interviewed.one is from the Hospital admimistration side and other one is the Patient(user).<br>
+
 ===1.1 From Adminstration point of view===<br>
 . User friendly and interactive<br>
 . Time slicing should to be applied to the web Linking.<br>
