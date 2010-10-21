@@ -1,5 +1,33 @@
-<wiki:toc max_depth="4"/>
+Vision document<wiki:toc max_depth="4"/>
 =1.0 Introduction=
+
 ==1.1 Purpose of the Vision Document==
+The purpose of this document is to collect and analyze the ideas that have come up for
+the future of this product.
+
 ==1.2 Product Overview==
+Scheduling system is a web application which is used to make an appointment with doctor without visting hospital. once the user get registered by filling all the details user will be able to choose doctor and convenient appointment date.
+
 =2.0 User Description=
+
+==User/Market Demographics==
+
+==User Profiles==
+Users of this application are the patients who wants to consult doctor. They might be of any age Group, Gender and personality .
+
+
+==user environment==
+The appointment system which is going to develop should be user friendly and flexible.
+
+==Key User Needs==
+These are similar to that of business process requirements and definition where every user should protect their data with innovative user tools
+
+==Alternatives and Competition==
+Alternative of this application is patients have to visit hospital to make appointment with doctor. There is no application in the market which can compete with this system. 
+
+==Product Overview==
+
+emergency appointments: serious injury in accidents, sudden heart strokes, sudden illness and pregnent ladies can have emergency appointments.
+
+
+non emergency appointments:
