@@ -14,4 +14,5 @@ Two Differenet Categories of people were interviewed.one is from the Hospital ad
 . Should display all the avialability of Doctors.<br>
 . user information should be monitored.<br>
 . System should not be Hefty.<br>
+.System Integration should be done.<br>
  http://scheduling-system.googlecode.com/files/skill2.png
