@@ -2,7 +2,7 @@
 ==1.0 Summary of Interviews of user or stakeholder==
 Two Differenet Categories of people were interviewed.one is from the Hospital admimistration side and other one is the Patient(user).
 ===1.1 From Adminstration point of view===
-. User friendly and interactive.
+. User friendly and interactive<br>
 . Time slicing should to be applied to the web Linking.
 . Datbase should be operated by administrator.
 . Appointemnt overriding should not be done.
