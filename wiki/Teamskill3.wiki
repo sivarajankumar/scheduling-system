@@ -1,4 +1,5 @@
 Teamskill3
+<wiki:toc max_depth="4"/>
 =4.1 Introduction=
 ==4.1.1 Purpose of Vision Document==
 ==4.1.2 Product Overview==
@@ -8,45 +9,45 @@ Teamskill3
 ==4.3.2 Summary of Capabilities==
 ==4.3.3 Assumptions and Dependencies==
 ==4.3.4 Cost and Pricing==
-==4.4 Feature Attributes
-4.4.1 Status
-4.4.2 Priority
-4.4.3 Effort
-4.4.4 Risk
-4.4.5 Stability
-4.4.6 Target Release
-4.4.7 Assigned To
-4.5 Product Features
-4.5.1 Job Seeker Profile Search
-4.5.2 Job Seeker Account
-4.5.3 Job Provider Account
-4.5.4 Job Offering Search
-4.5.5 Job Offering Sort
-4.5.6 Resume Search
-4.5.7 Job Posting
-4.5.8 Web Based Access to Kareer Mart
-4.5.9 Password Protection
-4.5.10 System Access Levels
-4.5.11 Several Job Openings Under One Job Provider Profile
-4.5.12 Several Profiles for each Job Seeker
-4.5.13 Job Provider Messaging
-4.5.14 Job Seeker Messaging
-4.5.15 Track Response to Job Application Status
-4.5.16 Hide Responses to Job Application
-4.5.17 Customizable Favorite for Jobs/Profiles
-4.5.18 Apply to Several Job Openings Via Email
-4.5.19 128 Bit Encoding
-4.5.20 Job Provider Broadcasting Job Postings
-4.5.21 Blocking of Job Seekers/Job Providers
-4.5.22 Resume Creation and Edit on the Web
-4.5.23 Export Resume to PDF or Word
-4.6 Other Product Requirements
-4.6.1 Applicable Standards
-4.6.2 System Requirements
-4.6.3 Licensing, Security, and Installation
-4.6.4 Performance Requirements
-4.7 Documentation Requirements
-4.7.1 Tutorial for getting new password
-4.7.2 Validation of boarding passes
-4.7.3 History of visitors
-4.8 Glossary
+==4.4 Feature Attributes==
+===4.4.1 Status===
+===4.4.2 Priority===
+===4.4.3 Effort===
+===4.4.4 Risk===
+===4.4.5 Stability===
+===4.4.6 Target Release===
+===4.4.7 Assigned To===
+=4.5 Product Features=
+==4.5.1 Job Seeker Profile Search==
+==4.5.2 Job Seeker Account==
+==4.5.3 Job Provider Account==
+==4.5.4 Job Offering Search==
+==4.5.5 Job Offering Sort==
+==4.5.6 Resume Search==
+==4.5.7 Job Posting==
+==4.5.8 Web Based Access to Kareer Mart==
+==4.5.9 Password Protection==
+==4.5.10 System Access Levels==
+==4.5.11 Several Job Openings Under One Job Provider Profile==
+==4.5.12 Several Profiles for each Job Seeker==
+==4.5.13 Job Provider Messaging==
+==4.5.14 Job Seeker Messaging==
+==4.5.15 Track Response to Job Application Status==
+==4.5.16 Hide Responses to Job Application==
+==4.5.17 Customizable Favorite for Jobs/Profiles==
+==4.5.18 Apply to Several Job Openings Via Email==
+==4.5.19 128 Bit Encoding==
+==4.5.20 Job Provider Broadcasting Job Postings==
+==4.5.21 Blocking of Job Seekers/Job Providers==
+==4.5.22 Resume Creation and Edit on the Web==
+==4.5.23 Export Resume to PDF or Word==
+=4.6 Other Product Requirements=
+==4.6.1 Applicable Standards==
+==4.6.2 System Requirements==
+==4.6.3 Licensing, Security, and Installation==
+==4.6.4 Performance Requirements==
+=4.7 Documentation Requirements=
+==4.7.1 Tutorial for getting new password==
+==4.7.2 Validation of boarding passes==
+==4.7.3 History of visitors==
+=4.8 Glossary=
