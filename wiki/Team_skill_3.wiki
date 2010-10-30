@@ -2,11 +2,11 @@
 =1.0 Introduction=
 
 ==1.1 Purpose of the Vision Document==
-The purpose of this document is to collect and analyze the ideas that have come up for
+Scheduling system aim is to make scheduling an easy process.The purpose of this document is to collect and analyze the ideas that have come up for
 the future of this product.
 
 ==1.2 Product Overview==
-Scheduling system is a web application which is used to make an appointment with doctor without visiting hospital. Once the user get registered by filling all the details, user will be able to choose doctor and convenient appointment date.
+Scheduling system is a web application which is used to make an appointment with doctor without visiting hospital. Once the user get registered by filling all the details, user will be able to choose doctor and convenient appointment date.so that patient can consult or meet doctor at his appropriate time so that scheduling is done in an easy way at less time
 
 =2.0 User Description=
 
