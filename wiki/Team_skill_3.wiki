@@ -10,28 +10,28 @@ Scheduling system is a web application which is used to make an appointment with
 
 =2.0 User Description=
 
-==User/Market Demographics==
+==2.1User/Market Demographics==
 
-==User Profiles==
+==2.2User Profiles==
 Users of this application are the patients who wants to consult doctor. They might be of any age Group, Gender and personality .
 
 
-==user environment==
+==2.3user environment==
 The appointment system which is going to develop should be user friendly and flexible.
 
-==Key User Needs==
+==2.4Key User Needs==
 These are similar to that of business process requirements and definition where every user should protect their data with innovative user tools
 
-==Alternatives and Competition==
+==2.5Alternatives and Competition==
 Alternative of this application is patients have to visit hospital to make appointment with doctor. There is no application in the market which can compete with this system. 
 
 ===Product Overview===
 
-==Product Perspective==
+==3.0Product Perspective==
 
 There is no other application which is used to make appointment with the doctor online and which saves the patients records and reports. Here every visit with doctor is stored in the database.
 
-==Summary of Capabilities==
+==3.1Summary of Capabilities==
 This application is used to make appointment with doctor through online. There is a flexibility in choosing the particular doctor.
 
 Emergency appointments: serious injury in accidents, sudden heart strokes, sudden illness and pregnant ladies can have emergency appointments.
