@@ -1,3 +1,3 @@
 Managing Scope
 
-http://code.google.com/p/scheduling-system/downloads/detail?name=1.jpg&can=2&q=
+http://scheduling-system.googlecode.com/files/1.jpg
