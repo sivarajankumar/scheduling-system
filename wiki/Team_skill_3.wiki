@@ -31,10 +31,31 @@ Alternative of this application is patients have to visit hospital to make appoi
 
 There is no other application which is used to make appointment with the doctor online and which saves the patients records and reports. Here every visit with doctor is stored in the database.
 
-==3.2Summary of Capabilities==
+==3.2product position statement==
+
+==3.3Summary of Capabilities==
 This application is used to make appointment with doctor through online. There is a flexibility in choosing the particular doctor.
+
+Non emergency appointments: These appointments are for those patients whose cases are not serious.
 
 Emergency appointments: serious injury in accidents, sudden heart strokes, sudden illness and pregnant ladies can have emergency appointments.
 
+==3.4Cost and pricing==
+The cost of the system depends upon the size of the hospital. If the hospital is very big, then large amount of database is needed. So the cost to develop and maintain the system increases.
 
-Non emergency appointments: These appointments are for those patients whose cases are not serious.
+4.0 Feature Attributes
+5.0 Product Features
+Not only simply making appointment with the doctor online, user can make conversation with the doctor via mail or phone. These details are available while making appointment wirh the doctor.
+6.0 Exemplary Use Cases
+7.0 Other Product Requirements
+7.1 Applicable Standards
+The online scheduling system portal should have all the design, safty and security standards which major websites have.
+7.2 System Requirements
+System should run on every web browsers such as IE, mozilla, Chrome, safari, Opera.. 
+7.3 Licensing, Security, and Installation
+No license snd installation is required but security to the data is very much important.
+7.4 Performance Requirements
+The data entered while filling the appointment form should be stored in the databese and it must be accessed very fast when required.
+8.0 Documentation Requirements
+8.1 Online Help
+online help is required while making appointment likes filling forms. Any customer represetative must be available to chat with the user.
