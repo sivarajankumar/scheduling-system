@@ -45,17 +45,17 @@ The cost of the system depends upon the size of the hospital. If the hospital is
 
 =4.0 Feature Attributes=
 =5.0 Product Features=
-Not only simply making appointment with the doctor online, user can make conversation with the doctor via mail or phone. These details are available while making appointment wirh the doctor.
+Not only simply making appointment with the doctor online, user can make conversation with the doctor via mail or phone. These details are available while making an appointment with the doctor.
 =6.0 Exemplary Use Cases=
 =7.0 Other Product Requirements=
 ==7.1 Applicable Standards==
-The online scheduling system portal should have all the design, safty and security standards which major websites have.
+The online scheduling system portal should have all the design, safety and security standards which major websites have.
 ==7.2 System Requirements==
-System should run on every web browsers such as IE, mozilla, Chrome, safari, Opera.. 
+System should run on every web browsers such as IE, Mozilla, Chrome, safari, Opera.. 
 ==7.3 Licensing, Security, and Installation==
-No license snd installation is required but security to the data is very much important.
+No license and installation is required but security to the data is very much important.
 ==7.4 Performance Requirements==
-The data entered while filling the appointment form should be stored in the databese and it must be accessed very fast when required.
+The data entered while filling the appointment form should be stored in the database and it must be accessed very fast when required.
 =8.0 Documentation Requirements=
 ==8.1 Online Help==
-online help is required while making appointment likes filling forms. Any customer represetative must be available to chat with the user.
+Online help is required while making appointment likes filling forms. Any customer representative must be available to chat with the user.
