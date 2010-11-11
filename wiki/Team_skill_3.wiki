@@ -66,6 +66,16 @@ The cost of the system depends upon the size of the hospital. If the hospital is
 
 =4.0 Feature Attributes=
 
+Feature attributes determines about the  health record of a particular patient(PHR) which should be maintained in secrecy and the following features are as below:
+
+1.Each person should control his or her own PHR, Individuals decide which parts of their PHR can be accessed, by whom and for how long.
+2.PHRs contain information from one’s entire lifetime.
+3.PHRs contain information from healthcare providers.
+4.PHRs are accessible from any place at any time
+5.PHRs are private and secure
+6.PHRs are “transparent.” Individuals can see who entered each piece of data, where it was transferred from and who has viewed it.
+7.PHRs permit each exchange of information with other health information systems and health professionals.
+
 =5.0 Product Features=
 
 Not only simply making appointment with the doctor online, user can make conversation with the doctor via mail or phone. These details are available while making an appointment with the doctor.
