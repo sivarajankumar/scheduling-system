@@ -2,60 +2,83 @@
 =1.0 Introduction=
 
 ==1.1 Purpose of the Vision Document==
+
 Scheduling system aim is to make scheduling an easy process.The purpose of this document is to collect and analyze the ideas that have come up for
 the future of this product.
 
 ==1.2 Product Overview==
+
 Scheduling system is a web application which is used to make an appointment with doctor without visiting hospital. Once the user get registered by filling all the details, user will be able to choose doctor and convenient appointment date.so that patient can consult or meet doctor at his appropriate time so that scheduling is done in an easy way at less time
 
 =2.0 User Description=
 
 ==2.1 User/Market Demographics==
 
-==2.2User Profiles==
+==2.2 User Profiles==
+
 Users of this application are the patients who wants to consult doctor. They might be of any age Group, Gender and personality .
 
 
 ==2.3 User environment==
+
 The appointment system which is going to develop should be user friendly and flexible.
 
-==2.4Key User Needs==
+==2.4 Key User Needs==
+
 These are similar to that of business process requirements and definition where every user should protect their data with innovative user tools
 
-==2.5Alternatives and Competition==
+==2.5 Alternatives and Competition==
+
 Alternative of this application is patients have to visit hospital to make appointment with doctor. There is no application in the market which can compete with this system. 
 
-=3.0Product Overview=
+=3.0 Product Overview=
 
-==3.1Product Perspective==
+==3.1 Product Perspective==
 
 There is no other application which is used to make appointment with the doctor online and which saves the patients records and reports. Here every visit with doctor is stored in the database.
 
-==3.2product position statement==
+==3.2 Product position statement==
 
-==3.3Summary of Capabilities==
+==3.3 Summary of Capabilities==
+
 This application is used to make appointment with doctor through online. There is a flexibility in choosing the particular doctor.
 
 Non emergency appointments: These appointments are for those patients whose cases are not serious.
 
 Emergency appointments: serious injury in accidents, sudden heart strokes, sudden illness and pregnant ladies can have emergency appointments.
 
-==3.4Cost and pricing==
+==3.4 Cost and pricing==
+
 The cost of the system depends upon the size of the hospital. If the hospital is very big, then large amount of database is needed. So the cost to develop and maintain the system increases.
 
 =4.0 Feature Attributes=
+
 =5.0 Product Features=
+
 Not only simply making appointment with the doctor online, user can make conversation with the doctor via mail or phone. These details are available while making an appointment with the doctor.
+
 =6.0 Exemplary Use Cases=
+
 =7.0 Other Product Requirements=
+
 ==7.1 Applicable Standards==
+
 The online scheduling system portal should have all the design, safety and security standards which major websites have.
+
 ==7.2 System Requirements==
+
 System should run on every web browsers such as IE, Mozilla, Chrome, safari, Opera.. 
+
 ==7.3 Licensing, Security, and Installation==
+
 No license and installation is required but security to the data is very much important.
+
 ==7.4 Performance Requirements==
+
 The data entered while filling the appointment form should be stored in the database and it must be accessed very fast when required.
+
 =8.0 Documentation Requirements=
+
 ==8.1 Online Help==
+
 Online help is required while making appointment likes filling forms. Any customer representative must be available to chat with the user.
