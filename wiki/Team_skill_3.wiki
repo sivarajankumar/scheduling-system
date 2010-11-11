@@ -10,13 +10,13 @@ Scheduling system is a web application which is used to make an appointment with
 
 =2.0 User Description=
 
-==2.1User/Market Demographics==
+==2.1 User/Market Demographics==
 
 ==2.2User Profiles==
 Users of this application are the patients who wants to consult doctor. They might be of any age Group, Gender and personality .
 
 
-==2.3user environment==
+==2.3 User environment==
 The appointment system which is going to develop should be user friendly and flexible.
 
 ==2.4Key User Needs==
