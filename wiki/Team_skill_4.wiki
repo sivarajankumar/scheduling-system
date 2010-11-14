@@ -2,4 +2,4 @@
 <h5>Prioritized Features List with Effort and Risk Estimates</h5>
 http://scheduling-system.googlecode.com/files/1.jpg
 
-http://scheduling-system.googlecode.com/files/Optional%20features.docx
+http://scheduling-system.googlecode.com/files/Optional%20features.jpg
