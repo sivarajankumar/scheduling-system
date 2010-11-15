@@ -1,15 +1,11 @@
-
-
 *Refining the System definition*<br>
 
 ==Scheduling system Use cases==
 
-*Use case for doctor subsystem*<br>
+*Use case for Doctor subsystem*<br>
 
-*Patient*<br>
+*Use case for Patient subsystem*<br>
 
-*Administration*<br>
+*Use case for Administration subsystem*<br>
 
-*Medical representation*<br>
-
-*Doctor*<br>
+*Use case for Medical representation subsystem*<br>
