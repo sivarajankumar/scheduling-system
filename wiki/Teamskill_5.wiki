@@ -1,0 +1,16 @@
+=TeamSkill 5=
+
+*Refining the System definition*<br>
+
+==Scheduling system Use cases==
+
+*Use case for doctor subsystem*<br>
+
+*Patient*<br>
+
+*Administration*<br>
+
+*Medical representation*<br>
+
+*Doctor*<br>
+
