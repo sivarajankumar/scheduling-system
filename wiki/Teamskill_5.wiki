@@ -12,7 +12,7 @@
 
 *System Supplementary Specification*<br>
   
- *Introduction*<br>
+ * Introduction*<br>
 
  *Functionality*<br>
 
