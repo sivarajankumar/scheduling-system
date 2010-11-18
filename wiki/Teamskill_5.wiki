@@ -9,3 +9,35 @@
 *Use case for Administration subsystem*<br>
 
 *Use case for Medical representation subsystem*<br>
+
+*System Supplementary Specification*<br>
+  
+ *Introduction*<br>
+
+ *Functionality*<br>
+
+ *Usability*<br>
+
+ *Reliability*<br>
+
+ *Performance*<br>
+
+ *Supportability*<br>
+
+ *Design Constraints*<br>
+
+ *Documentation Requirements*<br>
+
+ *Purchased Components*<br>
+
+ *Interfaces*<br>
+
+ *Licensing and Security Requirements*<br>
+
+ *International and Localization*<br>
+  System can be used anywhere  in the world because it is developed in english language
+
+ *Installation and Deployment*
+   It is a web based system so no installation or deployment is Required.
+
+ 
