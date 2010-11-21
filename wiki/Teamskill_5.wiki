@@ -19,7 +19,7 @@ http://scheduling-system.googlecode.com/files/3.JPG
 *Use case for Medical representation subsystem*<br>
 http://scheduling-system.googlecode.com/files/4.JPG
 
-===System Supplementary Specification===<br>
+===System Supplementary Specification===
 
   
 *Introduction*<br>
