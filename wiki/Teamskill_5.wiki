@@ -3,7 +3,7 @@
 
 =Teamskill 5=
 
-*Refining the System definition*<br>
+Refining the System definition<br>
 
 ==Scheduling system Use cases==
 
