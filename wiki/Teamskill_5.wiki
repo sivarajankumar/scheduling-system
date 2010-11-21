@@ -1,5 +1,7 @@
 *Refining the System definition*<br>
 
+*Table of contents*
+
 ==Scheduling system Use cases==
 
 *Use case for Doctor subsystem*<br>
