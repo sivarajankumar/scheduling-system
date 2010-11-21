@@ -16,7 +16,7 @@ http://scheduling-system.googlecode.com/files/4.JPG
 
 *System Supplementary Specification*<br>
   
- *Introduction*<br>
+*Introduction*<br>
 
  *Functionality*<br>
 
