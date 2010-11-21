@@ -3,9 +3,9 @@
 *Table of contents*
 <wiki:toc max_depth="4"/>
 
-==Scheduling system Use cases==
+=Scheduling system Use cases=
 
-=*Use case for Doctor subsystem*=<br>
+==*Use case for Doctor subsystem*==<br>
 http://scheduling-system.googlecode.com/files/1.JPG
 
 =*Use case for Patient subsystem*=<br>
