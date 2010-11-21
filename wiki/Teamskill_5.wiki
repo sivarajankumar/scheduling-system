@@ -4,6 +4,8 @@
 
 *Use case for Doctor subsystem*<br>
 
+http://scheduling-system.googlecode.com/files/1.JPG
+
 *Use case for Patient subsystem*<br>
 
 *Use case for Administration subsystem*<br>
