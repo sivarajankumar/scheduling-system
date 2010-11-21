@@ -5,7 +5,7 @@
 
 Two Differenet Categories of people were interviewed.one is from the Hospital administration side and other one is the Patient(user).<br>
 
-==1.1 From Adminstration point of view==<br>
+==1.1 From Adminstration point of view==
 
 . User friendly and interactive<br>
 . Time slicing should to be applied to the web Linking.<br>
@@ -14,7 +14,7 @@ Two Differenet Categories of people were interviewed.one is from the Hospital ad
 . Patient information should be confidential.<br>
 . Users can track the appointment system.<br>
 
-====1.2 From Patient point if view====<br>
+====1.2 From Patient point if view====
 
 . User friendly and attractive<br>
 . Should display all the avialability of Doctors.<br>
