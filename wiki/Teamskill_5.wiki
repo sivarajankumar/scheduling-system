@@ -16,32 +16,32 @@ http://scheduling-system.googlecode.com/files/4.JPG
 
 *System Supplementary Specification*<br>
   
- * Introduction*<br>
+ *Introduction*<br>
 
- * Functionality*<br>
+ *Functionality*<br>
 
- * Usability*<br>
+ *Usability*<br>
 
- * Reliability*<br>
+ *Reliability*<br>
 
- * Performance*<br>
+ *Performance*<br>
 
- * Supportability*<br>
+ *Supportability*<br>
 
- * Design Constraints*<br>
+ *Design Constraints*<br>
 
- * Documentation Requirements*<br>
+ *Documentation Requirements*<br>
 
- * Purchased Components*<br>
+ *Purchased Components*<br>
 
- * Interfaces*<br>
+ *Interfaces*<br>
 
- * Licensing and Security Requirements*<br>
+ *Licensing and Security Requirements*<br>
 
- * International and Localization*<br>
+ *International and Localization*<br>
     System can be used anywhere  in the world because it is developed in english language
 
- * Installation and Deployment*
+ *Installation and Deployment*
    It is a web based system so no installation or deployment is Required.
 
  
