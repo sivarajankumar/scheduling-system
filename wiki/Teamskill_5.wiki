@@ -1,7 +1,7 @@
 *Table of contents*
 <wiki:toc max_depth="4"/>
 
-=Teamskill 5=<br>
+=Teamskill 5=
 
 *Refining the System definition*<br>
 
