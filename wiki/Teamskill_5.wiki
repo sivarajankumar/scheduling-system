@@ -3,19 +3,15 @@
 ==Scheduling system Use cases==
 
 *Use case for Doctor subsystem*<br>
-
 http://scheduling-system.googlecode.com/files/1.JPG
 
 *Use case for Patient subsystem*<br>
-
 http://scheduling-system.googlecode.com/files/2.JPG
 
 *Use case for Administration subsystem*<br>
-
 http://scheduling-system.googlecode.com/files/3.JPG
 
 *Use case for Medical representation subsystem*<br>
-
 http://scheduling-system.googlecode.com/files/4.JPG
 
 *System Supplementary Specification*<br>
