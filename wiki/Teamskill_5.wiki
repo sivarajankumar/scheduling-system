@@ -1,7 +1,6 @@
-*Refining the System definition*<br>
-
 *Table of contents*
 <wiki:toc max_depth="4"/>
+*Refining the System definition*<br>
 
 =Scheduling system Use cases=
 
