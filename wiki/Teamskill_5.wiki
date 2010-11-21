@@ -12,6 +12,8 @@ http://scheduling-system.googlecode.com/files/2.JPG
 
 *Use case for Administration subsystem*<br>
 
+http://scheduling-system.googlecode.com/files/3.JPG
+
 *Use case for Medical representation subsystem*<br>
 
 *System Supplementary Specification*<br>
