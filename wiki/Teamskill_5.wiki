@@ -76,6 +76,8 @@ b.Moderate enhancements must be a part of it.
  
 ===1.2.7 Design Constraints===
 
+a. Process of building a scheduling system where the requirements can be imposed is a design constraint.
+
  
 ===1.2.8 Documentation Requirements===
 
