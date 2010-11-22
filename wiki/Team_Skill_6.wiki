@@ -1,5 +1,6 @@
 = Team Skill 6 =
 ==Build the Right System==
+This test case is mainly used 
 http://scheduling-system.googlecode.com/files/Presentation1.jpg
 
 *Creating an account for doctor*<br>
