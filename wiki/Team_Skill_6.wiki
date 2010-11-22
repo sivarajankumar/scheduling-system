@@ -1,2 +1,8 @@
 = Team Skill 6 =
 *Build the Right System*
+
+Retrieving Doctors account
+Creating an account for doctor
+Retrieving Patient account
+Creating an account for patient
+Scheduling appointment by database administrator
