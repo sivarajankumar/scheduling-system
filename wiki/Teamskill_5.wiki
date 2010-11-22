@@ -42,10 +42,15 @@ b. Users Appointments does not clash while scheduling electronically , which is 
 
 ===1.2.3 Usability===
 
-*  System can be learned and operated by the intended users with ease
+a. System can be learned and operated by the intended users with ease<br>
 
 
 ===1.2.4 Reliability===
+
+a. System services must be non-stop availability for the users.<br>
+b. It should have a precision time which is very important.<br>
+c. Accuracy is required for the precision time.
+
 
  
 ===1.2.5 Performance===
