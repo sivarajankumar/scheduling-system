@@ -3,6 +3,8 @@
 
 *Retrieving Doctors account*<br>
 
+http://scheduling-system.googlecode.com/files/Presentation1.jpg
+
 *Creating an account for doctor*<br>
 *Retrieving Patient account*<br>
 *Creating an account for patient*<br>
