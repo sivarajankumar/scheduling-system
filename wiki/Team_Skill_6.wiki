@@ -1,7 +1,8 @@
 = Team Skill 6 =
 ==Build the Right System==
-This test case is mainly used 
-http://scheduling-system.googlecode.com/files/Presentation1.jpg
+
+http://scheduling-system.googlecode.com/files/Presentation1.jpg<br>
+This test case is mainly used  to retrieve the doctor account<br>
 
 *Creating an account for doctor*<br>
 *Retrieving Patient account*<br>
