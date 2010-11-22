@@ -1,7 +1,7 @@
 = Team Skill 6 =
 ==Build the Right System==
 
-*Retrieving doctors account*<br>
+*1.0 Retrieving doctors account*<br>
 
 This test case is mainly used  to retrieve the doctor account<br>
 
