@@ -24,6 +24,12 @@ http://scheduling-system.googlecode.com/files/4.JPG
   
 *Introduction*<br>
 
+The specifications should be stated in simple declarative statements or in the use case form.It should match a user need with a level of specificity.Such requirements includes:<br>
+
+a)Application methods and formal mechanisms for quality assurance,reviews,inspections.<br>
+
+b)Non functional requirements like usability,Reliability,Performance and Supportability.<br>
+
 
 *Functionality*<br>
 
