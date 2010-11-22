@@ -57,6 +57,15 @@ c. Accuracy is required for the precision time.
  
 ===1.2.5 Performance===
 
+a. Response time for a transaction should be done accelerated.<br>
+
+b. Throughput must be done in the best case of the time complexity.<br>
+
+c. The no of transactions that the system can accommodate per second must be high.<br>
+
+d. Auto mode operation is done when the system is degraded.
+ 
+
  
 ===1.2.6 Supportability===
 
