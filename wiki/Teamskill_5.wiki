@@ -42,6 +42,8 @@ b. Users Appointments does not clash while scheduling electronically , which is 
 
 ===1.2.3 Usability===
 
+*  System can be learned and operated by the intended users with ease
+
 
 ===1.2.4 Reliability===
 
