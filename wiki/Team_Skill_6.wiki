@@ -1,8 +1,5 @@
 = Team Skill 6 =
 ==Build the Right System==
-
-*Retrieving Doctors account*<br>
-
 http://scheduling-system.googlecode.com/files/Presentation1.jpg
 
 *Creating an account for doctor*<br>
