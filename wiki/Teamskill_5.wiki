@@ -33,9 +33,9 @@ b)Non functional requirements like usability,Reliability,Performance and Support
 
 ===1.2.2 Functionality===
 
-* System should follow the authentication functions.
+*System should follow the authentication functions.
 <br>
-* Users Appointments does not clash while scheduling electronically , which is the major functionality of the database administrator.
+*Users Appointments does not clash while scheduling electronically , which is the major functionality of the database administrator.
 
 
 
