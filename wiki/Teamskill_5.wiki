@@ -34,38 +34,40 @@ b)Non functional requirements like usability,Reliability,Performance and Support
 ===1.2.2 Functionality===
 
 
-*Usability*<br>
+===1.2.3 Usability===
 
 
-*Reliability*<br>
-
- 
-*Performance*<br>
+===1.2.4 Reliability===
 
  
-*Supportability*<br>
+===1.2.5 Performance===
 
  
-*Design Constraints*<br>
+===1.2.6 Supportability===
 
  
-*Documentation Requirements*<br>
+===1.2.7 Design Constraints===
 
  
-*Purchased Components*<br>
+===1.2.8 Documentation Requirements===
 
  
-*Interfaces*<br>
+===1.2.9 Purchased Components===
 
  
-*Licensing and Security Requirements*<br>
+===1.2.10 Interfaces===
 
  
-*International and Localization*<br>
-    System can be used anywhere  in the world because it is developed in english language
+===1.2.11 Licensing and Security Requirements===
 
  
-*Installation and Deployment*
-   It is a web based system so no installation or deployment is Required.
+===1.2.12 International and Localization===
+    
+System can be used anywhere  in the world because it is developed in english language
+
+ 
+===1.2.13 Installation and Deployment===
+   
+It is a web based system so no installation or deployment is Required.
 
  
