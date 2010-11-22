@@ -1,5 +1,3 @@
-=Build the Right System=
-
 <wiki:toc max_depth=6>
 = Team Skill 6 =
 
