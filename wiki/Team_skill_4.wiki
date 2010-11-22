@@ -1,6 +1,6 @@
 <wiki:toc max_depth="4"/>
-<h3>Managing Scope</h3>
-<h5>Prioritized Features List with Effort and Risk Estimates</h5>
+<h3> 1.0 Managing Scope</h3>
+<h5> 1.1 Prioritized Features List with Effort and Risk Estimates</h5>
 http://scheduling-system.googlecode.com/files/1.jpg
 <br>
 http://scheduling-system.googlecode.com/files/optional.png
