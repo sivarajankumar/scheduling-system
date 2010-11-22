@@ -22,7 +22,7 @@ http://scheduling-system.googlecode.com/files/4.JPG
 ==1.2 System Supplementary Specification==
 
   
-*Introduction*<br>
+===1.2.1*Introduction*===<br>
 
 The specifications should be stated in simple declarative statements or in the use case form.It should match a user need with a level of specificity.Such requirements includes:<br>
 
