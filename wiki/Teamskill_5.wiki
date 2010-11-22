@@ -81,14 +81,27 @@ a. Process of building a scheduling system where the requirements can be imposed
  
 ===1.2.8 Documentation Requirements===
 
+a.Documentation should be imposed with the level of legitimate business concern.
+
  
 ===1.2.9 Purchased Components===
+
+a.Purchased components must have a warranty with legal terms and issues.
 
  
 ===1.2.10 Interfaces===
 
+a.Should be used static method of defining an interface.<br>
+
+b.Protocols and serve-lets are used for communication and connection<br>
+
+
  
 ===1.2.11 Licensing and Security Requirements===
+
+a. In order to use the system, it should be licensed.<br>
+
+b. Password must be protected, only authenticated users can operate the system.<br>
 
  
 ===1.2.12 International and Localization===
