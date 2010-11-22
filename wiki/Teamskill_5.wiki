@@ -22,7 +22,7 @@ http://scheduling-system.googlecode.com/files/4.JPG
 ==1.2 System Supplementary Specification==
 
   
-===1.2.1*Introduction*===
+===1.2.1 Introduction===
 
 The specifications should be stated in simple declarative statements or in the use case form.It should match a user need with a level of specificity.Such requirements includes:<br>
 
@@ -31,7 +31,7 @@ a)Application methods and formal mechanisms for quality assurance,reviews,inspec
 b)Non functional requirements like usability,Reliability,Performance and Supportability.<br>
 
 
-*Functionality*<br>
+===1.2.2 Functionality===
 
 
 *Usability*<br>
