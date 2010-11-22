@@ -2,7 +2,8 @@
 
 ==1.0 Introduction ==
 
-Add your content here.
+Scheduling an appointment with the doctor.
+
 ==2.0Problem Definition==
 =2.1Gaining agreement on problem definition=
 
