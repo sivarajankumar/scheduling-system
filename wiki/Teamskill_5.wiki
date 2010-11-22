@@ -1,11 +1,11 @@
 *Table of contents*
 <wiki:toc max_depth="4"/>
 
-=Teamskill 5=
+=1. Teamskill 5=
 
 Refining the System definition<br>
 
-==Scheduling system Use cases==
+==1.1 Scheduling system Use cases==
 
 *Use case for Doctor subsystem*<br>
 http://scheduling-system.googlecode.com/files/1.JPG
