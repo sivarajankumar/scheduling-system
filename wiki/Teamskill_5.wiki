@@ -69,6 +69,10 @@ d. Auto mode operation is done when the system is degraded.
  
 ===1.2.6 Supportability===
 
+a. Future enhancements can be anticipated in advance, and can stipulate the response time of simple enhancements.<br>
+
+b.Moderate enhancements must be a part of it.
+
  
 ===1.2.7 Design Constraints===
 
