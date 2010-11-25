@@ -19,3 +19,5 @@ http://scheduling-system.googlecode.com/files/creating%20an%20account.jpg<br>
 *4.0 Creating an account for patient*<br>
 *5.0 Scheduling an appointment by database administrator*<br>
 *6.0 Medical Representative*<br>
+
+http://scheduling-system.googlecode.com/files/medical.jpg
