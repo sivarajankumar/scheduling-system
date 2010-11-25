@@ -2,15 +2,15 @@
 = Team Skill 6 =
 
 
-*1.0 Retrieving doctors account*<br>
+*1.0 Accessing the doctors account*<br>
 
 This test case is mainly used  to retrieve the doctor account<br>
 
 http://scheduling-system.googlecode.com/files/Presentation1.jpg<br>
 
 
-*Creating an account for doctor*<br>
-*Retrieving Patient account*<br>
-*Creating an account for patient*<br>
-*Scheduling an appointment by database administrator*<br>
-*Medical Representative*<br>
+*2.0 Creating an account for doctor*<br>
+*3.0 Accessing Patients account*<br>
+*4.0 Creating an account for patient*<br>
+*5.0 Scheduling an appointment by database administrator*<br>
+*6.0 Medical Representative*<br>
