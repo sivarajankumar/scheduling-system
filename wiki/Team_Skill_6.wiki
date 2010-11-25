@@ -10,6 +10,11 @@ http://scheduling-system.googlecode.com/files/Presentation1.jpg<br>
 
 
 *2.0 Creating an account for doctor*<br>
+
+This test case is mainly used to create an account for the doctor who is new to the system.<br>
+
+http://scheduling-system.googlecode.com/files/creating%20an%20account.jpg<br>
+
 *3.0 Accessing Patients account*<br>
 *4.0 Creating an account for patient*<br>
 *5.0 Scheduling an appointment by database administrator*<br>
