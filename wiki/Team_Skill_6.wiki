@@ -12,4 +12,5 @@ http://scheduling-system.googlecode.com/files/Presentation1.jpg<br>
 *Creating an account for doctor*<br>
 *Retrieving Patient account*<br>
 *Creating an account for patient*<br>
-*Scheduling appointment by database administrator*<br>
+*Scheduling an appointment by database administrator*<br>
+*Medical Representative*<br>
