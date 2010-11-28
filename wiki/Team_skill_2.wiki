@@ -48,6 +48,5 @@ Many users and the people from the Scheduling system attended the requirements w
 
 ==2.1 Attendees of the requirement workshop==
 http://scheduling-system.googlecode.com/files/workshop.png
-
 =Workshop details=
 http://scheduling-system.googlecode.com/files/skill2.png
