@@ -8,5 +8,5 @@ http://scheduling-system.googlecode.com/files/optional.png
 <br>
 http://scheduling-system.googlecode.com/files/baseline.png
 
-=Marketing Comments=
+=2.Marketing Comments for Baseline features=
 http://scheduling-system.googlecode.com/files/Slide1.JPG
