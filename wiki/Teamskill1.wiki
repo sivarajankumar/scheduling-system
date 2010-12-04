@@ -1,22 +1,26 @@
 <wiki:toc max_depth="4"/>
 
-==1.0 Introduction ==
+=1.0 Introduction=
 
 Scheduling an appointment with the doctor.
 
-==2.0Problem Definition==
-=2.1Gaining agreement on problem definition=
+=2.0Problem Definition=
+
+==2.1Gaining agreement on problem definition==
 
 Manual work of scheduling appointment with doctor is time consuming process and includes heavy paper work.<br>
 
 http://scheduling-system.googlecode.com/files/0ne%5B1%5D.jpg
- ==*2.2 Understanding the root causes*==<br>
+ ===2.2 Understanding the root causes==
+
 http://scheduling-system.googlecode.com/files/fishbone.png
-===3.0 Identifying stakeholders and users===
+=3.0 Identifying stakeholders and users=
 
 http://scheduling-system.googlecode.com/files/three%20-%20Copy.jpg
-====4.0 Defining the Solution System Boundary====
-<br>http://scheduling-system.googlecode.com/files/solution%20system.jpg<br> 
-=====*5.0 Identify the Constraints to Be Imposed on the Solution*=====<br>
-http://scheduling-system.googlecode.com/files/5.png<br>
+
+=4.0 Defining the Solution System Boundary=
+http://scheduling-system.googlecode.com/files/solution%20system.jpg
+
+=5.0 Identify the Constraints to Be Imposed on the Solution=
+http://scheduling-system.googlecode.com/files/5.png
 = Details =
