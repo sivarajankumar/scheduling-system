@@ -23,4 +23,3 @@ http://scheduling-system.googlecode.com/files/solution%20system.jpg
 
 =5.0 Identify the Constraints to Be Imposed on the Solution=
 http://scheduling-system.googlecode.com/files/5.png
-= Details =
