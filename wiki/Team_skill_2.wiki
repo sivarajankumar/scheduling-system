@@ -3,7 +3,7 @@
 <wiki:toc max_depth="4"/>
 =1 Summary of Interviews of user or stakeholder=
 
-Two Differenet Categories of people were interviewed.one is from the Hospital administration side and other one is the Patient(user).<br>
+Two Different Categories of people were interviewed.one is from the Hospital administration side and other one is the Patient(user).<br>
 
 ==1.1 From Adminstration point of view==
 
