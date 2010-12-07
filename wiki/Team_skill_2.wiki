@@ -40,7 +40,7 @@ Two Different Categories of people were interviewed.one is from the Hospital adm
 
 *What is the availabilty of system?*
 
-.It should be available at any time.<br>
+.It should be available at any time.
 
 =2.0 Requirements Workshop=
 
@@ -50,3 +50,4 @@ Many users and the people from the Scheduling system attended the requirements w
 http://scheduling-system.googlecode.com/files/workshop.png
 =Workshop details=
 http://scheduling-system.googlecode.com/files/skill2.png
+=Features Collected from the workshop details=
