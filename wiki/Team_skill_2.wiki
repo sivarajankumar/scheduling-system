@@ -38,9 +38,9 @@ Two Different Categories of people were interviewed.one is from the Hospital adm
 .Security is provided through web application<br>
 .automatic updation saves the time<br>
 
-*What is the availabilty of system?*
+*What is the availabilty of system?*<br>
 
-*It should be available at any time.
+.It should be available at any time.
 
 =2 Requirements Workshop=
 
