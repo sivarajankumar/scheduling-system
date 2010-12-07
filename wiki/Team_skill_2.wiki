@@ -61,6 +61,8 @@ Identifying and updating the needs regularly and instantaneously.<br>
 
 Sessions to be held within the prior to the university provinences, Rules of the session must be done by both participants and developers.
 
+==2.3.1 Workshop Structure==
+
 =3 Workshop details=
 http://scheduling-system.googlecode.com/files/skill2.png
 =4 Features Collected from the workshop details=
