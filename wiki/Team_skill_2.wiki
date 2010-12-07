@@ -52,9 +52,10 @@ http://scheduling-system.googlecode.com/files/workshop.png<br>
 ==2.2 Warmup Session==
 
 Warmup session includes:<br>
-*Encouraging prospect from the new system<br>
-*List of Creative features<br>
-*Identifying and updating the needs regularly and instantaneously.<br>
+
+Encouraging prospect from the new system<br>
+List of Creative features<br>
+Identifying and updating the needs regularly and instantaneously.<br>
 
 ==2.3 Session==
 
