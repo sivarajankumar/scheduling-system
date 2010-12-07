@@ -22,7 +22,7 @@ Two Different Categories of people were interviewed.one is from the Hospital adm
 . System should not be Hefty.<br>
 . System Integration should be done.<br>
 
-=Interview Notes=
+==1.3 Interview Notes==
 
 *What is Problem in the present notations?*<br>
 
