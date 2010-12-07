@@ -14,7 +14,7 @@ Two Different Categories of people were interviewed.one is from the Hospital adm
 . Patient information should be confidential.<br>
 . Users can track the appointment system.<br>
 
-====1.2 From Patient point if view====
+==1.2 From Patient point if view==
 
 . User friendly and attractive<br>
 . Should display all the avialability of Doctors.<br>
