@@ -51,3 +51,4 @@ http://scheduling-system.googlecode.com/files/workshop.png
 =Workshop details=
 http://scheduling-system.googlecode.com/files/skill2.png
 =Features Collected from the workshop details=
+http://scheduling-system.googlecode.com/files/features.jpg
