@@ -16,18 +16,18 @@
     * [BusinessProcessDefinition#3.0_Assumptions 3.0 Assumptions]
     * [BusinessProcessDefinition#4.0_Issues 4.0 Issues]
     * [BusinessProcessDefinition#5.0_Project_Success_Criteria 5.0 Project Success Criteria]
-*[Teamskill1#teamskill1 teamskill1]
+*[Teamskill1#team_skill_1 team skill 1]
     * [Teamskill1#1.0_Introduction 1.0 Introduction]
-    * [Teamskill1#2.0_Problem_Definition 2.0Problem Definition]
-           *[Teamskill1#2.0.1_Gaining_agreement_on_problem_definition 2.0.1 Gaining agreement on problem definition]
-           *[Teamskill1#2.0.2_Understanding_the_root_causes 2.0.2 Understanding the root _causes]
+    * [Teamskill1#2.0_Problem_Definition 2.0 Problem Definition]
+           * [Teamskill1#2.0.1_Gaining_agreement_on_problem_definition 2.0.1 Gaining agreement on problem definition]
+           * [Teamskill1#2.0.2_Understanding_the_root_causes 2.0.2 Understanding the root _causes]
     * [Teamskill1#3.0_Identifying_stakeholders_and_users 3.0 Identifying stakeholders and users]
     * [Teamskill1#4.0_Defining_the_Solution_System_Boundary 4.0 Defining the Solution System Boundary]
     * [Teamskill1#5.0_Identify_the_Constraints_to_Be_Imposed_on_the_Solution 5.0 Identify the Constraints to Be Imposed on the Solution]
 
-*[Team_skill_2#Team_skill_2 Team_skill_2]
-           *[Team_skill_2#1.0_Summary_of_Interviews_of_user_or_stakeholder 1.0 Summary of Interviews of user or stakeholder]
-           *[Team_skill_21.1_From_Adminstration_point_of_view 1.1 From Adminstration point of view]
+*[Team_skill_2#Team_skill_2 Team skill 2]
+           * [Team_skill_2#1.0_Summary_of_Interviews_of_user_or_stakeholder 1.0 Summary of Interviews of user or stakeholder]
+           * [Team_skill_21.1_From_Adminstration_point_of_view 1.1 From Adminstration point of view]
           o 1.2 From Patient point if view
           o 1.3 Interview Notes
     * 2 Requirements Workshop
@@ -37,3 +37,56 @@
           o 2.3.1 Workshop Structure
     * 3 Workshop details
     * 4 Features Collected from the workshop details
+* [team_skill_3#team skill 3 team skill 3]
+    * 1.0 Introduction
+          o 1.1 Purpose of the Vision Document
+          o 1.2 Product Overview
+    * 2.0 User Description
+          o 2.1 User/Market Demographics
+          o 2.2 User Profiles
+          o 2.3 User environment
+          o 2.4 Key User Needs
+          o 2.5 Alternatives and Competition
+    * 3.0 Product Overview
+          o 3.1 Product Perspective
+          o 3.2 Product position statement
+          o 3.3 Summary of Capabilities
+          o 3.4 Cost and pricing
+    * 4.0 Feature Attributes
+    * 5.0 Product Features
+    * 6.0 Exemplary Use Cases
+    * 7.0 Other Product Requirements
+          o 7.1 Applicable Standards
+          o 7.2 System Requirements
+          o 7.3 Licensing, Security, and Installation
+          o 7.4 Performance Requirements
+    * 8.0 Documentation Requirements
+          o 8.1 Online Help
+* [team_skill_4#team skill 4 team skill 4]
+    * 1. Team Skill 4
+          o 1.0 Managing Scope
+          o 1.1 Prioritized Features List with Effort and Risk Estimates
+    * 2.Marketing Comments for Baseline features
+* [teamskill_5#teamskill 5 team skill 5]
+    * 1.1 Scheduling system Use cases
+    * 1.2 System Supplementary Specification
+          o 1.2.1 Introduction
+          o 1.2.2 Functionality
+          o 1.2.3 Usability
+          o 1.2.4 Reliability
+          o 1.2.5 Performance
+          o 1.2.6 Supportability
+          o 1.2.7 Design Constraints
+          o 1.2.8 Documentation Requirements
+          o 1.2.9 Purchased Components
+          o 1.2.10 Interfaces
+          o 1.2.11 Licensing and Security Requirements
+          o 1.2.12 International and Localization
+          o 1.2.13 Installation and Deployment
+*[team_skill_6#team_skill_6 team_skill_6]
+    * 1.0 Accessing the doctors account
+    * 2.0 Creating an account for doctor
+    * 3.0 Accessing Patients account
+    * 4.0 Creating an account for patient
+    * 5.0 Scheduling an appointment by database administrator
+    * 6.0 Medical Representative
