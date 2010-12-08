@@ -52,6 +52,8 @@ There is no other application which is used to make appointment with the doctor 
 
 ==3.2 Product position statement==
 
+For the users (patients)  of the system who need to provide the services that is to be provided by the scheduling process at any particular position unlike the main competitor in the outsourcing competition.  It is the customer perspective.
+
 ==3.3 Summary of Capabilities==
 
 This application is used to make appointment with doctor through online. There is a flexibility in choosing the particular doctor.
