@@ -1,0 +1,69 @@
+*Team skill 2: Understanding User and Stakeholder Needs*
+
+<wiki:toc max_depth="4"/>
+=1 Summary of Interviews of user or stakeholder=
+
+Two Different Categories of people were interviewed.one is from the Hospital administration side and other one is the Patient(user).<br>
+
+==1.1 From Adminstration point of view==
+
+. User friendly and interactive<br>
+. Time slicing should to be applied to the web Linking.<br>
+. Datbase should be operated by administrator.<br>
+. Appointemnt overriding should not be done.<br>
+. Patient information should be confidential.<br>
+. Users can track the appointment system.<br>
+
+==1.2 From Patient point if view==
+
+. User friendly and attractive<br>
+. Should display all the avialability of Doctors.<br>
+. user information should be monitored.<br>
+. System should not be Hefty.<br>
+. System Integration should be done.<br>
+
+==1.3 Interview Notes==
+
+*What is Problem in the present notations?*<br>
+
+.The manual work done is too complicated<br>
+.Maintainence of databse records is not remotely done<br>
+.Time consumption<br>
+.Security<br>
+
+*What is the solvation problem with the system?*<br>
+
+.Introducing the web application makes to reduce the manual work<br>
+.System should have a capability of finding an user oriented approach.<br>
+.Security is provided through web application<br>
+.automatic updation saves the time<br>
+
+*What is the availabilty of system?*<br>
+
+.It should be available at any time.
+
+=2 Requirements Workshop=
+
+Many users and the people from the Scheduling system attended the requirements workshop and presented their views and requirements in problem solvation.
+
+==2.1 Attendees of the requirement workshop==
+http://scheduling-system.googlecode.com/files/workshop.png
+==2.2 Warmup Session==
+
+Warmup session includes:<br>
+
+Encouraging prospect from the new system<br>
+List of Creative features<br>
+Identifying and updating the needs regularly and instantaneously.<br>
+
+==2.3 Session==
+
+Sessions to be held within the prior to the university provinences, Rules of the session must be done by both participants and developers.
+
+==2.3.1 Workshop Structure==
+http://scheduling-system.googlecode.com/files/WORK.jpg<br>
+
+=3 Workshop details=
+http://scheduling-system.googlecode.com/files/skill2.png
+=4 Features Collected from the workshop details=
+http://scheduling-system.googlecode.com/files/features.jpg
