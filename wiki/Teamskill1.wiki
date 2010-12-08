@@ -16,6 +16,8 @@ http://scheduling-system.googlecode.com/files/fishbone.png
 http://scheduling-system.googlecode.com/files/userstake.jpg<br>
 Project handlers are those who uses the system for the better cause.
 =4.0 Defining the Solution System Boundary=
+
 http://scheduling-system.googlecode.com/files/solution%20system.jpg
+
 =5.0 Identify the Constraints to Be Imposed on the Solution=
 http://scheduling-system.googlecode.com/files/5.png
