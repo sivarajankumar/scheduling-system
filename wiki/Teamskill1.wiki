@@ -6,11 +6,11 @@ Scheduling an appointment with the doctor.
 
 =2.0Problem Definition=
 
-==2.1Gaining agreement on problem definition==
+==2.1 Gaining agreement on problem definition==
 
 Manual work of scheduling appointment with doctor is time consuming process and includes heavy paper work.<br>
 http://scheduling-system.googlecode.com/files/0ne%5B1%5D.jpg
-===2.2 Understanding the root causes==
+==2.2 Understanding the root causes==
 http://scheduling-system.googlecode.com/files/fishbone.png
 =3.0 Identifying stakeholders and users=
 http://scheduling-system.googlecode.com/files/userstake.jpg
