@@ -16,7 +16,7 @@ http://scheduling-system.googlecode.com/files/0ne%5B1%5D.jpg
 http://scheduling-system.googlecode.com/files/fishbone.png
 =3.0 Identifying stakeholders and users=
 
-http://scheduling-system.googlecode.com/files/three%20-%20Copy.jpg
+http://scheduling-system.googlecode.com/files/userstake.jpg
 
 =4.0 Defining the Solution System Boundary=
 http://scheduling-system.googlecode.com/files/solution%20system.jpg
