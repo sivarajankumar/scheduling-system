@@ -5,6 +5,7 @@
 Scheduling an appointment with the doctor.
 
 =2.0Problem Definition=
+Definition of the problem mainly defines about the manual entry of the patient details.
 
 ==2.1 Gaining agreement on problem definition==
 
