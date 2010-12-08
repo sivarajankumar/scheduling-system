@@ -17,8 +17,23 @@
     * [BusinessProcessDefinition#4.0_Issues 4.0 Issues]
     * [BusinessProcessDefinition#5.0_Project_Success_Criteria 5.0 Project Success Criteria]
 *[Teamskill1#teamskill1 teamskill1]
+    * [Teamskill1#1.0_Introduction 1.0 Introduction]
+    * [Teamskill1#2.0_Problem_Definition 2.0Problem Definition]
+           *[Teamskill1#2.1_Gaining_agreement_on_problem_definition 2.1 Gaining agreement on problem definition]
+           *[Teamskill1#2.2_Understanding_the_root_causes 2.2 Understanding the root _causes]
+    * [Teamskill1#3.0_Identifying_stakeholders_and_users 3.0 Identifying stakeholders and users]
+    * [Teamskill1#4.0_Defining_the_Solution_System_Boundary 4.0 Defining the Solution System Boundary]
+    * [Teamskill1#5.0_Identify_the_Constraints_to_Be_Imposed_on_the_Solution 5.0 Identify the Constraints to Be Imposed on the Solution]
 
-
-
-
-   
+*[Team_skill_2#Team_skill_2 Team_skill_2]
+           *[Team_skill_2#1.0_Summary_of_Interviews_of_user_or_stakeholder 1.0 Summary of Interviews of user or stakeholder]
+           *[Team_skill_21.1_From_Adminstration_point_of_view 1.1 From Adminstration point of view]
+          o 1.2 From Patient point if view
+          o 1.3 Interview Notes
+    * 2 Requirements Workshop
+          o 2.1 Attendees of the requirement workshop
+          o 2.2 Warmup Session
+          o 2.3 Session
+          o 2.3.1 Workshop Structure
+    * 3 Workshop details
+    * 4 Features Collected from the workshop details
