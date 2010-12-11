@@ -86,7 +86,15 @@ After scheduling an appointment the extraneous Feature attributes that gonna det
 
 =5.0 Product Features=
 
-Not only simply making appointment with the doctor online, user can make conversation with the doctor via mail or phone. These details are available while making an appointment with the doctor.
+Not only simply making appointment with the doctor online, user can make conversation with the doctor via mail or phone. These details are available while making an appointment with the doctor.<br>
+
+1. User friendly interaction:<br>
+
+System should be easy for the users to operate it.<br>
+
+2. Account creation for patient.
+
+Account should be created for every patient
 
 =6.0 Exemplary Use Cases=
 
