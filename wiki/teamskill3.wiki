@@ -88,13 +88,39 @@ After scheduling an appointment the extraneous Feature attributes that gonna det
 
 Not only simply making appointment with the doctor online, user can make conversation with the doctor via mail or phone. These details are available while making an appointment with the doctor.<br>
 
-1. User friendly interaction:<br>
+==5.1 User friendly interaction==
 
-System should be easy for the users to operate it.<br>
+System should be easy for the users to operate it.
 
-2. Account creation for patient.
+
+==5.2 Account creation for patient==
 
 Account should be created for every patient.
+
+==5.3 Account creation for doctor==
+
+Account should be created for every doctor who joins the system.
+
+==5.4 Available timing==
+
+Available timings must be posted by the doctor in order to find an appointment.
+
+==5.5 Appointment Scheduling==
+
+Appointment is scheduled by the patient and it is notified by the administrator to the doctor after scheduling.
+
+==5.6 Retrieving the old patient details==
+
+Every patient details are stored in database, so that retrieving is done easily.
+
+==5.7 System should be interconnected==
+
+System should be interconnected where the communication done by the users are easy.
+
+==5.8 Providing the history of doctor to the patient who schedules an appointment==
+
+Before scheduling is done by the patient , history of the doctor must be given, according to the qualification an appointment is scheduled by the patient.
+
 
 =6.0 Exemplary Use Cases=
 
