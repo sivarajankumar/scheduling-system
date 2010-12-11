@@ -94,7 +94,7 @@ System should be easy for the users to operate it.<br>
 
 2. Account creation for patient.
 
-Account should be created for every patient
+Account should be created for every patient.
 
 =6.0 Exemplary Use Cases=
 
