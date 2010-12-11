@@ -18,12 +18,9 @@ The primary user demographics are of different methodology,but the two concepts 
 
 The basic services that we gonna use are:
 
-1.Short-term hospitalization.<br>
-2.Emergency room services.<br>
-3.General and specialty surgical services.<br>
-4.x ray/radiology services.<br>
-5.Laboratory services.<br>
-6.Blood services<br>
+1.Short-term scheduling.<br>
+2.Emergency scheduling.<br>
+3.Canceling of appointment.<br>
 
 According to the user need of the service,the appointment is scheduled,as every service has there own priority in scheduling appointment.
 
