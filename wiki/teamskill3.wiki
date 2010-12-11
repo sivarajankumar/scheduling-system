@@ -121,29 +121,26 @@ System should be interconnected where the communication done by the users are ea
 
 Before scheduling is done by the patient , history of the doctor must be given, according to the qualification an appointment is scheduled by the patient.
 
+=6.0 Other Product Requirements=
 
-=6.0 Exemplary Use Cases=
-
-=7.0 Other Product Requirements=
-
-==7.1 Applicable Standards==
+==6.1 Applicable Standards==
 
 The online scheduling system portal should have all the design, safety and security standards which major websites have.
 
-==7.2 System Requirements==
+==6.2 System Requirements==
 
 System should run on every web browsers such as IE, Mozilla, Chrome, safari, Opera.. 
 
-==7.3 Licensing, Security, and Installation==
+==6.3 Licensing, Security, and Installation==
 
 No license and installation is required but security to the data is very much important.
 
-==7.4 Performance Requirements==
+==6.4 Performance Requirements==
 
 The data entered while filling the appointment form should be stored in the database and it must be accessed very fast when required.
 
-=8.0 Documentation Requirements=
+=7.0 Documentation Requirements=
 
-==8.1 Online Help==
+==7.1 Online Help==
 
 Online help is required while making appointment likes filling forms. Any customer representative must be available to chat with the user.
