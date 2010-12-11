@@ -21,6 +21,9 @@ This test case is mainly used to access the patients account.
 http://scheduling-system.googlecode.com/files/Presentation2.jpg<br>
 
 ==4.0 Creating an account for patient==
+
+This test case is mainly used to create an account for the patient.
+http://scheduling-system.googlecode.com/files/patacc.jpg<br>
 ==5.0 Scheduling an appointment by database administrator==
 ==6.0 Medical Representative==
 http://scheduling-system.googlecode.com/files/medical.jpg
