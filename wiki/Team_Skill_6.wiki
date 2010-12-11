@@ -16,6 +16,10 @@ This test case is mainly used to create an account for the doctor who is new to 
 http://scheduling-system.googlecode.com/files/creating%20an%20account.jpg<br>
 
 ==3.0 Accessing Patients account==
+
+This test case is mainly used to access the patients account.
+http://scheduling-system.googlecode.com/files/Presentation2.jpg<br>
+
 ==4.0 Creating an account for patient==
 ==5.0 Scheduling an appointment by database administrator==
 ==6.0 Medical Representative==
