@@ -83,7 +83,7 @@
           * [teamskill5#11_Licensing_and_Security_Requirements 11 Licensing and Security Requirements]
           * [teamskill5#12_International_and_Localization 12 International and Localization]
           * [teamskill5#13_Installation_and_Deployment 13 Installation and Deployment]
-*[teamskill6#team_skill_6 team_skill_6]
+**[teamskill6#team_skill_6 team_skill_6]
     *[teamskill6#1.0_Accessing_the_doctors_account 1.0 Accessing the doctors account]
     *[teamskill6#2.0_Creating_an_account_for_doctor 2.0 Creating an account for doctor]
     *[teamskill6#3.0_Accessing_Patients_account 3.0 Accessing Patients account]
