@@ -37,7 +37,7 @@
             * [teamskill2#2.3.1_Workshop_Structure_2.3.1 Workshop Structure]
     * [teamskill2#3_Workshop_details 3 Workshop details]
     * [teamskill2#4_Features_Collected_from_the_workshop_details 4 Features Collected from the workshop details]
-* [team_skill_3#team_skill_3 team skill 3]
+* [teamskill3#team_skill_3 team skill 3]
     * [teamskill3#1.0_Introduction 1.0 Introduction]
           * [teamskill3#1.1_Purpose_of_the_Vision_Document 1.1 Purpose of the Vision Document]
           * [teamskill3#1.2_Product_Overview 1.2 Product Overview]
