@@ -35,33 +35,33 @@
           o 2.2 Warmup Session<br>
           o 2.3 Session<br>
           o 2.3.1 Workshop Structure<br>
-    * 3 Workshop details
-    * 4 Features Collected from the workshop details
+    * 3 Workshop details<br>
+    * 4 Features Collected from the workshop details<br>
 * [team_skill_3#team skill 3 team skill 3]
-    * 1.0 Introduction
-          o 1.1 Purpose of the Vision Document
-          o 1.2 Product Overview
-    * 2.0 User Description
-          o 2.1 User/Market Demographics
-          o 2.2 User Profiles
-          o 2.3 User environment
-          o 2.4 Key User Needs
-          o 2.5 Alternatives and Competition
-    * 3.0 Product Overview
-          o 3.1 Product Perspective
-          o 3.2 Product position statement
-          o 3.3 Summary of Capabilities
-          o 3.4 Cost and pricing
-    * 4.0 Feature Attributes
-    * 5.0 Product Features
-    * 6.0 Exemplary Use Cases
-    * 7.0 Other Product Requirements
-          o 7.1 Applicable Standards
-          o 7.2 System Requirements
-          o 7.3 Licensing, Security, and Installation
-          o 7.4 Performance Requirements
-    * 8.0 Documentation Requirements
-          o 8.1 Online Help
+    * 1.0 Introduction<br>
+          o 1.1 Purpose of the Vision Document<br>
+          o 1.2 Product Overview<br>
+    * 2.0 User Description<br>
+          o 2.1 User/Market Demographics<br>
+          o 2.2 User Profiles<br>
+          o 2.3 User environment<br>
+          o 2.4 Key User Needs<br>
+          o 2.5 Alternatives and Competition<br>
+    * 3.0 Product Overview<br>
+          o 3.1 Product Perspective<br>
+          o 3.2 Product position statement<br>
+          o 3.3 Summary of Capabilities<br>
+          o 3.4 Cost and pricing<br>
+    * 4.0 Feature Attributes<br>
+    * 5.0 Product Features<br>
+    * 6.0 Exemplary Use Cases<br>
+    * 7.0 Other Product Requirements<br>
+          o 7.1 Applicable Standards<br>
+          o 7.2 System Requirements<br>
+          o 7.3 Licensing, Security, and Installation<br>
+          o 7.4 Performance Requirements<br>
+    * 8.0 Documentation Requirements<br>
+          o 8.1 Online Help<br>
 * [team_skill_4#team skill 4 team skill 4]
     * 1. Team Skill 4
           o 1.0 Managing Scope
