@@ -67,22 +67,22 @@
           * [teamskill4#1.0_Managing_Scope 1.0 Managing Scope]
           * [teamskill4#1.1_Prioritized_Features_List_with_Effort_and_Risk_Estimates 1.1 Prioritized Features List with Effort and Risk Estimates]
     * [teamskill4#2.0_Marketing_Comments_for_Baseline_features 2.0 Marketing Comments for Baseline features]
-* [teamskill_5#teamskill 5 team skill 5]<br>
-    * 1.1 Scheduling system Use cases<br>
-    * 1.2 System Supplementary Specification<br>
-          o 1 Introduction<br>
-          o 2 Functionality<br>
-          o 3 Usability<br>
-          o 4 Reliability<br>
-          o 5 Performance<br>
-          o 6 Supportability<br>
-          o 7 Design Constraints<br>
-          o 8 Documentation Requirements<br>
-          o 9 Purchased Components<br>
-          o 10 Interfaces<br>
-          o 11 Licensing and Security Requirements<br>
-          o 12 International and Localization<br>
-          o 13 Installation and Deployment<br>
+* [teamskill5#team_skill_5 team skill 5]
+    * [teamskill5# 1.1 Scheduling system Use cases]
+    * [teamskill5# 1.2 System Supplementary Specification]
+          * [teamskill5#1_Introduction 1 Introduction]
+          * [teamskill5#2_Functionality 2 Functionality]
+          * [teamskill5#3_Usability 3 Usability]
+          * [teamskill5#4_Reliability 4 Reliability]
+          * [teamskill5#5_Performance 5 Performance]
+          * [teamskill5#6_Supportability 6 Supportability]
+          * [teamskill5#7_Design Constraints 7 Design Constraints]
+          * [teamskill5#8_Documentation_Requirements 8 Documentation Requirements]
+          * [teamskill5#9_Purchased_Components 9 Purchased Components]
+          * [teamskill5#10_Interfaces 10 Interfaces]
+          * [teamskill5#11_Licensing_and_Security_Requirements 11 Licensing and Security Requirements]
+          * [teamskill5#12_International_and_Localization 12 International and Localization]
+          * [teamskill5#13_Installation_and_Deployment 13 Installation and Deployment]
 *[team_skill_6#team_skill_6 team_skill_6]
     * 1.0 Accessing the doctors account
     * 2.0 Creating an account for doctor
