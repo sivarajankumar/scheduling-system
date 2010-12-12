@@ -62,11 +62,11 @@
           * [teamskill3#7.4_Performance_Requirements 7.4 Performance Requirements]
     * [teamskill3#8.0_Documentation_Requirements 8.0 Documentation Requirements]
           * [teamskill3#_8.1_Online_Help_8.1 Online Help]
-* [team_skill_4#team skill 4 team skill 4]<br>
-    * 1. Team Skill 4
-          o 1.0 Managing Scope<br>
-          o 1.1 Prioritized Features List with Effort and Risk Estimates<br>
-    * 2.Marketing Comments for Baseline features<br>
+* [teamskill4#team_skill_4 team_skill_4]
+    * [teamskill4#team_skill_4 team_skill_4]
+          * [teamskill4#1.0_Managing_Scope 1.0 Managing Scope]
+          * [teamskill4#1.1_Prioritized_Features_List_with_Effort_and_Risk_Estimates 1.1 Prioritized Features List with Effort and Risk Estimates]
+    * [teamskill4#2.0_Marketing_Comments_for_Baseline_features 2.0 Marketing Comments for Baseline features]
 * [teamskill_5#teamskill 5 team skill 5]<br>
     * 1.1 Scheduling system Use cases<br>
     * 1.2 System Supplementary Specification<br>
