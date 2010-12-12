@@ -62,27 +62,27 @@
           o 7.4 Performance Requirements<br>
     * 8.0 Documentation Requirements<br>
           o 8.1 Online Help<br>
-* [team_skill_4#team skill 4 team skill 4]
+* [team_skill_4#team skill 4 team skill 4]<br>
     * 1. Team Skill 4
-          o 1.0 Managing Scope
-          o 1.1 Prioritized Features List with Effort and Risk Estimates
-    * 2.Marketing Comments for Baseline features
-* [teamskill_5#teamskill 5 team skill 5]
-    * 1.1 Scheduling system Use cases
-    * 1.2 System Supplementary Specification
-          o 1 Introduction
-          o 2 Functionality
-          o 3 Usability
-          o 4 Reliability
-          o 5 Performance
-          o 6 Supportability
-          o 7 Design Constraints
-          o 8 Documentation Requirements
-          o 9 Purchased Components
-          o 10 Interfaces
-          o 11 Licensing and Security Requirements
-          o 12 International and Localization
-          o 13 Installation and Deployment
+          o 1.0 Managing Scope<br>
+          o 1.1 Prioritized Features List with Effort and Risk Estimates<br>
+    * 2.Marketing Comments for Baseline features<br>
+* [teamskill_5#teamskill 5 team skill 5]<br>
+    * 1.1 Scheduling system Use cases<br>
+    * 1.2 System Supplementary Specification<br>
+          o 1 Introduction<br>
+          o 2 Functionality<br>
+          o 3 Usability<br>
+          o 4 Reliability<br>
+          o 5 Performance<br>
+          o 6 Supportability<br>
+          o 7 Design Constraints<br>
+          o 8 Documentation Requirements<br>
+          o 9 Purchased Components<br>
+          o 10 Interfaces<br>
+          o 11 Licensing and Security Requirements<br>
+          o 12 International and Localization<br>
+          o 13 Installation and Deployment<br>
 *[team_skill_6#team_skill_6 team_skill_6]
     * 1.0 Accessing the doctors account
     * 2.0 Creating an account for doctor
