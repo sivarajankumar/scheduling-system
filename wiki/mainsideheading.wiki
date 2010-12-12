@@ -25,18 +25,18 @@
     * [Teamskill1#4.0_Defining_the_Solution_System_Boundary 4.0 Defining the Solution System Boundary]
     * [Teamskill1#5.0_Identify_the_Constraints_to_Be_Imposed_on_the_Solution 5.0 Identify the Constraints to Be Imposed on the Solution]
 
-*[Team_skill_2#Team_skill_2 Team skill 2]
-           * [Team_skill_2#1.0_Summary_of_Interviews_of_user_or_stakeholder 1.0 Summary of Interviews of user or stakeholder]
-           * [Team_skill_2#1.1_From_Adminstration_point_of_view 1.1 From Adminstration point of view]
-          o 1.2 From Patient point if view<br>
-          o 1.3 Interview Notes<br>
-    * 2 Requirements Workshop
-          o 2.1 Attendees of the requirement workshop<br>
-          o 2.2 Warmup Session<br>
-          o 2.3 Session<br>
-          o 2.3.1 Workshop Structure<br>
-    * 3 Workshop details<br>
-    * 4 Features Collected from the workshop details<br>
+*[Teamskill2#Team_skill_2 Team skill 2]
+           * [Teamskill2#1.0_Summary_of_Interviews_of_user_or_stakeholder 1.0 Summary of Interviews of user or stakeholder]
+           * [Teamskill2#1.1_From_Adminstration_point_of_view 1.1 From Adminstration point of view]
+           * [Teamskill2#1.2_From_Patient_point_if_view 1.2 From Patient point if view]
+          * [Teamskill2#1.3_Interview_Notes 1.3 Interview Notes]
+    * [Teamskill2#2_Requirements_Workshop 2 Requirements Workshop]
+          * [Teamskill2#2.1_Attendees_of_the_requirement_workshop 2.1 Attendees of the requirement workshop]
+          * [Teamskill2#_2.2_Warmup_Session 2.2 Warmup Session]
+          * [Teamskill2#_2.3_Session 2.3 Session]
+          * [Teamskill2#2.3.1_Workshop_Structure_2.3.1 Workshop Structure]
+    * [Teamskill2#3_Workshop_details 3 Workshop details]
+    * [Teamskill2#4_Features_Collected_from_the_workshop_details 4 Features Collected from the workshop details]
 * [team_skill_3#team skill 3 team skill 3]
     * 1.0 Introduction<br>
           o 1.1 Purpose of the Vision Document<br>
